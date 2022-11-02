@@ -167,13 +167,14 @@ header {
     text-align: center;
     padding-top: 180px;
 }
-.main-div .main-btn{
+.main-div .main-overlay .main-btn{
     width: 100px;
     height: 30px;
     font-size: 12px;
     font-weight: bold;
     color: black;
-    margin-left:480px;
+    display:block;
+    margin: auto;
     margin-top: 20px;
     border: none;
 }
